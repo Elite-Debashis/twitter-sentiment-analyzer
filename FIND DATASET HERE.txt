@@ -1,0 +1,2 @@
+I have not provided the dataset because of large size.
+You can find the Sentiment140 here: https://www.kaggle.com/kazanova/sentiment140
